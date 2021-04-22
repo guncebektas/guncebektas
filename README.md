@@ -2,7 +2,6 @@
 
 - 💬 I'm currently managing some projects which based on ai, cv, gis, multi band systems and more... 
 - 🥰 In love with web 
-- 📫 Shoot an email for your questions: **info@guncebektas.com**
 - 🌱 Currently learning svelte and bulma
 
 <!--
