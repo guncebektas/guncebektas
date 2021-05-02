@@ -2,7 +2,7 @@
 
 - 💬 I'm currently managing some projects which based on ai, cv, gis, communication systems and more... 
 - 🥰 In love with web 
-- 🌱 Currently learning svelte and bulma
+- 🌱 Currently learning svelte
 
 <!--
 **guncebektas/guncebektas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
