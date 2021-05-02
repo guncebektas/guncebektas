@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 💬 I'm currently managing some projects which based on ai, cv, gis, multi band systems and more... 
+- 💬 I'm currently managing some projects which based on ai, cv, gis, communication systems and more... 
 - 🥰 In love with web 
 - 🌱 Currently learning svelte and bulma
 
